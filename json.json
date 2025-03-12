@@ -1,0 +1,21 @@
+{
+    
+    "name": "Shuja Uddin",
+    "email": "shujauddn@example.com",
+    "maxBookings": 3,
+    "activeBookings": 0
+  }
+
+
+  {
+    "model": "Toyota Corolla",
+    "location": "Islamabad,
+    "isAvailable": true
+  }
+
+  {
+  "userId": "6799b351038c7d05295e4636",
+  "carId": "6799b864d1552fc6f34633b3",
+  "startDate": "2023-10-01",
+  "endDate": "2023-10-05"
+}
